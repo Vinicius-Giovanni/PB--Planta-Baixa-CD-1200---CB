@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "Planta Baixa - Acompanhamento de CD"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "90f62e22-d692-458b-a829-1070c9a01355"
+  }
+}

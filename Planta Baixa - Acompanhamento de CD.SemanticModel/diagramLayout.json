@@ -1,0 +1,216 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 83.150655687094826,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 0,
+            "y": 0
+          },
+          "nodeIndex": "dBox",
+          "nodeLineageTag": "65aecf3c-6855-457f-9d26-be4b22ae5d36",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 1,
+          "expandedHeight": 200
+        },
+        {
+          "location": {
+            "x": 0,
+            "y": 112.74665177911163
+          },
+          "nodeIndex": "dCalendario",
+          "nodeLineageTag": "def5f655-ff6f-4bc6-8929-e2f45b6693e2",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 10,
+          "expandedHeight": 200
+        },
+        {
+          "location": {
+            "x": 0,
+            "y": 225.4306501042617
+          },
+          "nodeIndex": "dHeadcount",
+          "nodeLineageTag": "a5fc25f6-e841-4572-9702-cb3bb952363a",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 2,
+          "expandedHeight": 176
+        },
+        {
+          "location": {
+            "x": 0,
+            "y": 345.182631122629
+          },
+          "nodeIndex": "dHora",
+          "nodeLineageTag": "b670a6dd-c5dd-49a5-bdc0-f9639cf9e45f",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 3,
+          "expandedHeight": 224
+        },
+        {
+          "location": {
+            "x": 0,
+            "y": 460.14662386494592
+          },
+          "nodeIndex": "dHora_agora",
+          "nodeLineageTag": "6fc7dfc5-0968-4f9f-a5c7-bf8317fd7eca",
+          "size": {
+            "height": 72,
+            "width": 234
+          },
+          "zIndex": 11,
+          "expandedHeight": 145
+        },
+        {
+          "location": {
+            "x": 0,
+            "y": 572.89327564405755
+          },
+          "nodeIndex": "dsep_setor",
+          "nodeLineageTag": "0034ba12-b9bc-40ff-8ef4-d121b4ee468b",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 4,
+          "expandedHeight": 145
+        },
+        {
+          "location": {
+            "x": 0,
+            "y": 681.37059148451385
+          },
+          "nodeIndex": "dValores",
+          "nodeLineageTag": "6edf28a7-ec4c-43e1-bf33-ea13128eade4",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 5,
+          "expandedHeight": 152
+        },
+        {
+          "location": {
+            "x": 0,
+            "y": 786.38657920228081
+          },
+          "nodeIndex": "dZona",
+          "nodeLineageTag": "88d59a67-7eb3-4295-848c-df736406812b",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 6,
+          "expandedHeight": 128
+        },
+        {
+          "location": {
+            "x": 1109.3001535279113,
+            "y": 651.11191402436953
+          },
+          "nodeIndex": "3_11_status_+_olpn",
+          "nodeLineageTag": "1a151689-c168-4b90-9725-0ca7b78ed69d",
+          "size": {
+            "height": 224,
+            "width": 234
+          },
+          "zIndex": 14,
+          "expandedHeight": 300
+        },
+        {
+          "location": {
+            "x": 1109.1451868770105,
+            "y": 0
+          },
+          "nodeIndex": "2_04_posicoes_ocupadas_e_vazias",
+          "nodeLineageTag": "bab55116-2cb5-45bb-a603-8eae19921320",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 9,
+          "expandedHeight": 300
+        },
+        {
+          "location": {
+            "x": 1683.4678152082226,
+            "y": 0
+          },
+          "nodeIndex": "Medidas",
+          "nodeLineageTag": "314b4eb1-7ab6-4f94-908d-f1e0b2274614",
+          "size": {
+            "height": 72,
+            "width": 234
+          },
+          "zIndex": 13,
+          "expandedHeight": 104
+        },
+        {
+          "location": {
+            "x": 1106.3652622452578,
+            "y": 890.14986740771292
+          },
+          "nodeIndex": "1_06_recebimento",
+          "nodeLineageTag": "f3c0cca6-2eed-4272-a817-adf7c8a4681e",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 12,
+          "expandedHeight": 145
+        },
+        {
+          "location": {
+            "x": 0,
+            "y": 941.20153802888638
+          },
+          "nodeIndex": "niveis",
+          "nodeLineageTag": "7d4a40be-3b93-4cce-b131-ec81742999d1",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1967.4678152082226,
+            "y": 470.60076901444313
+          },
+          "nodeIndex": "auxCurva",
+          "nodeLineageTag": "f15c61df-aa27-4e19-abce-5a077ad39f38",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 0
+        }
+      ],
+      "name": "Todas as tabelas",
+      "zoomValue": 70.95554390096882,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "Todas as tabelas",
+  "defaultDiagram": "Todas as tabelas"
+}
