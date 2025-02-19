@@ -68,7 +68,7 @@ DADOS ALTERADOS DEVIDO A POLÍTICA DE PROTEÇÃO DE DADOS!!!
 
 ![Group 2](https://github.com/user-attachments/assets/47c15875-7643-4740-a73f-c3f9fcc20179)
 
-![Group 22](https://github.com/user-attachments/assets/ebf317fe-9a16-479e-b65f-163c54e04022)
+![Group 23](https://github.com/user-attachments/assets/34e1cf62-302c-4d05-990b-2d6bc4cae2ae)
 
 
 
