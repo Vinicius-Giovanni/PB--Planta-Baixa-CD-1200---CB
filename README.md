@@ -64,4 +64,10 @@ Além do acompanhamento da ocupação e da análise de alocação dos itens, o i
 
 Com esse indicador, garantimos **mais eficiência, inteligência e agilidade logística**, possibilitando uma gestão operacional mais estratégica e um melhor desempenho do CD. 🚀  
 
+![image](https://github.com/user-attachments/assets/40ed960d-afb6-4c56-874b-7471c3d14980)
+
+![image](https://github.com/user-attachments/assets/807365c8-6098-48d0-a658-eb81da1b4d0f)
+
+
+
 ---
